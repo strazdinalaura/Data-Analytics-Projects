@@ -1,2 +1,2 @@
 # Data-Analytics-Projects
-Thinkful Data Analytics Project Folder
+My Data Analytics Project Folder
